@@ -17,6 +17,4 @@ Tools used
 - Microsoft Excel
 - Excel charts and data visualization
 
-File information
 
-The dashboard is included in the "Sales_Performance_Dashboard_Task3" sheet of the Excel workbook. The same workbook also contains the cleaned data, data quality summary, and cleaning notes.
